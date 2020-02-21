@@ -19,6 +19,7 @@ public class HandleAlert {
 		alert.getText();
 		System.out.println(alert.getText());
 		alert.accept();
+		System.out("Hello 1");
 		//alert.dismiss();
 		
 	}
